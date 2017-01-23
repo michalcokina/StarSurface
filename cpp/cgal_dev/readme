@@ -1,0 +1,8 @@
+# robene na verzi CGAL 4.2
+1. potrebne subory:
+	CmakeLists.txt
+	Makefile
+	poisson_reconstruction.cpp
+2. naCDckovat sa do foldra a spustit "cmake ./"
+3. "make"
+4. enjoy bin file
