@@ -1,0 +1,8 @@
+# for CGAL 4.3 to CGAL 4.7
+1. necessary files:
+	CmakeLists.txt
+	poisson_reconstruction.cpp
+2. open terminal from this directory
+3. cmake ./
+4. make
+5. copy bin file to folder "Tri"
